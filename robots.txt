@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeemah.taiwangamingleague.com/sitemap.xml
